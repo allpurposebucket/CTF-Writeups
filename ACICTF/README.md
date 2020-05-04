@@ -1,9 +1,9 @@
 # **ACICTF 2020**
 
 ## Challenges
-* [Boot Racer](ACICTF/Boot-racer.md)
-* [Boot Riddle](ACICTF/Boot-riddle.md)
-* [DENIED](ACICTF/DENIED.md)
-* [Not So Meta](ACICTF/Not-so-meta.md)
-* [Proxy List](ACICTF/Proxy-list.md)
-* [Sharing is Caring](ACICTF/Sharing-Is-Caring.md)
+* [Boot Racer](Boot-racer.md)
+* [Boot Riddle](Boot-riddle.md)
+* [DENIED](DENIED.md)
+* [Not So Meta](Not-so-meta.md)
+* [Proxy List](Proxy-list.md)
+* [Sharing is Caring](Sharing-Is-Caring.md)
