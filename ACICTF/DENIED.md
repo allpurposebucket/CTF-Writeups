@@ -10,4 +10,4 @@ mentioned in hopes of getting a helpful response, although I always received a 4
 It turns out I was overthinking the problem. After the POST request attempts, I removed the comment HTML tags and typed `cat flag.txt` and received the flag.
 
 
-## **FLAG:** ACI{ccdcb229da85c8d0a6a239edb19}
+## **Flag:** ACI{ccdcb229da85c8d0a6a239edb19}
