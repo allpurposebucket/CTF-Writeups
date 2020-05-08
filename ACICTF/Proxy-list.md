@@ -1,6 +1,6 @@
 # **Proxy List**
 ## Points: 100
-### **Description:** *coming soon*
+### **Description:** We need you to perform geolocation analysis on this list of IPs. We have attributed it to a malicious proxy network. Report back with the prevalent country of origin: [ips.txt](https://challenge.acictf.com/static/5c04f8032bb038c31547f8eb340c686d/ips.txt)
 This challenge provides a text file of nearly 30000 IP addresses. We're told that the flag is the country with the most addresses in the list.
 After creating a free account on ipinfo.io, I created the following python script. 
 
