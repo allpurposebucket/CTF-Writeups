@@ -1,6 +1,6 @@
 # **DENIED**
-## Points: 50
-### **Description:** *coming soon*
+## Points: 75
+### **Description:** Sometimes websites are afraid of the terminator finding things out. http://challenge.acictf.com:27856 The flag is in flag.txt.
 The provided link had many references to robots, so the robots.txt was the first place I looked.
 There was an entry in the robots.txt that took us to a separate page meant for "maintenance". The only thing on the page was "*Result=*" 
 
