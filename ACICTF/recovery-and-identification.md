@@ -1,4 +1,4 @@
-# **Recover And IDentification**
+# **Recovery And IDentification**
 ## Points: 150
 ### **Description:** Given two out of three disk images used in a RAID array, see if you can recover the data: [disk1.img.xz](https://challenge.acictf.com/static/aa529854d4314a6ed33825aaae2fe476/disk1.img.xz) [disk2.img.xz](https://challenge.acictf.com/static/aa529854d4314a6ed33825aaae2fe476/disk2.img.xz)
 
