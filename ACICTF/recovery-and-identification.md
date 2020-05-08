@@ -13,4 +13,6 @@ I then stopped the array, `mdadm --stop /dev/md0`. Next, I removed the block dev
 
 Now, all I had to do was mount it. Once mounted, I found that there were a list of .tar files. When decompressing them, I ran `strings file.tar |grep ACI` on each one and found the flag.
 
+I found the following two links helpful: [superuser](https://superuser.com/questions/962395/assemble-3-drive-software-raid5-with-one-disk-missing) and [stack exchange](https://unix.stackexchange.com/questions/199101/debian-mounting-a-raid-array)
+
 ## **Flag:** ACI{e818c5339604b14506d0b3a439e}
