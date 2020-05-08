@@ -1,6 +1,5 @@
 # **Sharing is Caring**
 ## Points: 250
-### **Description:** *coming soon*
 
 This was a tough one. We're told that the challenge relates to [split-secret-schemes](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing). 
 From this, I knew that I would be looking for a set of "secrets," which I expected to be long strings that I combined to reveal the flag.
