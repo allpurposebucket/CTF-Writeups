@@ -1,6 +1,6 @@
 # **Boot Racer**
 ## Points: 150
-### **Description:** *coming soon*
+### **Description:** We've found one last floppy disk [image](https://challenge.acictf.com/static/ec85b0cea115e174d7b31ff9d8df7d3d/files.tar.gz) that boots, but it looks like we're just being toyed with at this point.
 
 We're given another floppy disk image that when booting with qemu displays to us `Your flag is at 0x7DC0    Well... it was`
 This tells us that sometime during the timespan of booting till that text is printed, the flag is at that address. 
