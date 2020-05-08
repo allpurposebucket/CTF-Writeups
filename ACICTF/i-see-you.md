@@ -1,6 +1,6 @@
 # **I SEe You**
-## Points: *coming soon*
-### **Description:** *coming soon*
+## Points: 200
+### **Description:** We think someone has been attacking our web server, can you help us by finding the IP address of the attacker in our logs? [audit.log.gz](https://challenge.acictf.com/static/cd347598b60381668fd345885b8df882/audit.log.gz)
 
 We're given an audit.log file and we're told to find the attacker's IP address. I've never messed with an audit.log before, so I tried aureport 
 first but didn't find anything notable. I then used ausearch with the `-i` tag to find all numbers in the file, generating a new file with all of the IP
