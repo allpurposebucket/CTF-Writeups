@@ -9,4 +9,8 @@
 * [Sharing is Caring](Sharing-Is-Caring.md)
 * [Turtles All the Way Down](turtles-all-the-way-down.md)
 * [I SEe You](i-see-you.md)
-
+* [Controlled Access](controlled-access.md)
+* [Move ZIG](move-zig.md)
+* [Recovery and Identification](recovery-and-identification.md)
+* [SQL Always Sucks](sql-always-sucks.md)
+* [That's More than Enough](thats-more-than-enough.md)
