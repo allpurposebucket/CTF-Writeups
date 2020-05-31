@@ -1,0 +1,143 @@
+Received: from DM5PR18MB1644.namprd18.prod.outlook.com (2603:10b6:5:15b::22)
+ by DM5PR18MB2088.namprd18.prod.outlook.com with HTTPS via
+ DM6PR18CA0009.NAMPRD18.PROD.OUTLOOK.COM; Sat, 25 Apr 2020 02:11:36 +0000
+Authentication-Results: invirtutedei.com; dkim=none (message not signed)
+ header.d=none;invirtutedei.com; dmarc=none action=none
+ header.from=wendigo.pw;
+Received: from DM5PR18MB2088.namprd18.prod.outlook.com (2603:10b6:4:b4::27) by
+ DM5PR18MB1644.namprd18.prod.outlook.com (2603:10b6:3:14d::10) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2921.29; Sat, 25 Apr 2020 02:11:34 +0000
+Received: from DM5PR18MB2088.namprd18.prod.outlook.com
+ ([fe80::cdb7:a509:c7d2:219a]) by DM5PR18MB2088.namprd18.prod.outlook.com
+ ([fe80::cdb7:a509:c7d2:219a%5]) with mapi id 15.20.2937.020; Sat, 25 Apr 2020
+ 02:11:34 +0000
+From: hax <hax@wendigo.pw>
+To: Marcus Roth <Marcus.Roth@secureinthedeepblue.com>
+Subject: Urgent Request
+Thread-Topic: Urgent Request
+Thread-Index: AQHWGqaxA6wXv73NTk2TSrHDIR4cCQ==
+Sender: Matthew Sturges <hax@wendigo.pw>
+X-MS-Exchange-MessageSentRepresentingType: 2
+Date: Sat, 25 Apr 2020 02:11:34 +0000
+Message-ID:
+ <DM5PR18MB2088484FBE437D77AD0C4AD8B0D10@DM5PR18MB2088.namprd18.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+ <DM5PR18MB2088484FBE437D77AD0C4AD8B0D10@DM5PR18MB2088.namprd18.prod.outlook.com>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: DM5PR18MB2088.namprd18.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [73.51.162.111]
+X-MS-Exchange-Organization-Network-Message-Id:
+ 73cf2afb-0cd7-40a5-cef8-08d7e8bdfa4d
+X-MS-PublicTrafficType: Email
+Return-Path: Elliot@invirtutedei.com
+X-MS-Exchange-Organization-ExpirationStartTime: 25 Apr 2020 02:11:34.5343
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 73cf2afb-0cd7-40a5-cef8-08d7e8bdfa4d
+X-MS-TrafficTypeDiagnostic: DM5PR18MB1644:
+X-MS-Oob-TLC-OOBClassifiers: OLM:3826;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:DM5PR18MB2088.namprd18.prod.outlook.com;PTR:;CAT:NONE;SFTY:;SFS:;DIR:INB;SFP:;
+X-Microsoft-Antispam: BCL:0;
+X-MS-Exchange-AntiSpam-MessageData:
+ EKdz8Qjolz1ayL/tEMJOUSUQ1aGYTSxlybnaei4vFLeOlwXTsCQe9diZSwRxyd2A/GdKvl/80+NvPfg/eFXC2b/H2YTvvSxvGlOAOuW9pe+nvc7LYW7ypj2ruJXYoB3OiMh5ZqNhgqZRhbYVnXquE6tbM+RhROYon/Wqttof/4GdvH3IBCfU5UQswCAK4YSesbVZSwcplQY/7WS1P8CCLxJAtqXM00uMOWZzG6ST+1Gyre9Jw5l183dbcnm+GwLo3nFKSrpH5VF/qQgXbOUzHOChfK6/+67OzkvpYJ6Bab/FOfaYU8abE2QzCgl9JdVLHtei6SphZTZgNnZ4D3ItjJugwN8ufJJPpYRZz8xobaPtIAL37SNdS38FIQ2IG3Q4qhe6QFUaWNMJDKuZJW4yktaAI34XlygYgEDUAeq5IOz5JCANj9RmC4GHykyjz4ST+6HCCqvlq1acvcx+AetAqj38UF/Zh4aEot8ieoqT4ZiEA627NmdMHMridTtUimTWf4k6T8NhpOb4LQqawV3yRStTjtra0qXqL/QpFGVRXb9txjOoLlAkEcDpMJWQOXTYQQeTdISTFsCH4miAKkAxQd9KgvwsiWe4oSDIxhqCZGTvGN2sJfg67Jl+yZp9qwJr2wDveJyfYpSoRy+zeAsKRZEei2iKmNdttSKS3qrYDz9b7L2jippH/bd3LV74mpii+7fQ2D809CM7qtGV7O49S7SAMwHuG1+A9mW/ruAon39kGO41C+zyM9QZRj/279IOL+m6VXnF4jNSFr/+lroiO6wLZVCj6BGtgXGT7fnlQ04=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Apr 2020 02:11:34.0081
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 3fa02592-6eec-423a-a760-cdae5d0bddf3
+X-MS-Exchange-CrossTenant-Network-Message-Id: 73cf2afb-0cd7-40a5-cef8-08d7e8bdfa4d
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: Y0BeH1gaEi3ZezA/IxDboyeYh1V2ZwVoXYLN66r+L7HaNQjiALrbA/3ScUwJtI1QkyzmYMcfRnC7lBUFGLxhuw==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR18MB1644
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3997025
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2937.014
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750127)(520011016)(706158)(944506383)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	wxIZkOgl/5t8qQBHirgy/NkSaTNQkwPYyAlTHaQ0SkVEX/to5fFkba2gEh9rfwdtG6mIh41PTEUZevQvweTqY7VFgoUVaZ1RVW2jbEPIj6QUJVFNK9ec7pAgX4cdzBOw4xn9CqZo8pyhapw1GTPS4ywcbeM/5D2uuDE5LP63utGNgK6NAdFw2skSz6WL+jb7x7Md/VF5AAV/dasxen+z8Y4uosfhhXKvYuq55veG3s7EyIL+WigUp6vCBeMUtxud/PXh/UOqf5i0r5YVi/eiXnYmsb5MUFueZw22EdzGRP9J6OSp+EAbQdiKFUf2MwNdsrULYS2SUEUp0SPF4hf21Pqai9SdalGdkZxdnEtHJMkjVmRBz92YTlj3Kiazao9xZmZbL/yUMnmTQM++1ggZm86VapJk4/XtcDJeXl+YRfSJ+F93ZKfjf1237b7ccbzAJhzb2oM1j086draTjBtvgQ==
+Content-type: multipart/alternative;
+	boundary="B_3670611119_701156042"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3670611119_701156042
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Hi Marcus,
+
+I need to purchase some things ASAP.
+
+Please respond ASAP when you have a moment.
+
+Matthew Sturge
+Project Manager
+
+
+--B_3670611119_701156042
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bottom=
+:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<span>Hi Marcus,</span></div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<span><br>
+</span></div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<span>I need to purchase some things ASAP.</span></div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<span><br>
+</span></div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<span>Please respond ASAP when you have a moment.</span><br>
+</div>
+<div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"Signature">
+<div></div>
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px; font-size: 15px; color: rgb(32, 31, 30); text-alig=
+n: start; background-color: rgb(255, 255, 255);">
+<span style=3D"font-size:14pt"><b><i>Matthew Sturge</i></b></span></div>
+<div style=3D"margin: 0px; font-size: 15px; color: rgb(32, 31, 30); text-alig=
+n: start; background-color: rgb(255, 255, 255);">
+<span style=3D"font-size:14pt"><b><i>Project Manager</i><br>
+</b></span></div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
+--B_3670611119_701156042--
+
