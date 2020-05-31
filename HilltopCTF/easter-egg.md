@@ -18,5 +18,5 @@ Thus far, the passwords constructed the string *SecureInthedeepblue.com*. Adding
 
 Submitting "SecureInthedeepblue.com/mastermind" into the password field gives us the password dictionary. I then used the command `fcrackzip -u -D -p PasswordList.txt UserFolder.zip` to find the password, which was _s3cure2020_. Unzipping the zip file with that password
 This gives us a directory system. After looking through all of the empty files and directories, I found this in UserFolder/John/Work/Spring 2020/New Website/Ascii.txt.
-![Easter Egg](../images/easter-egg.JPG)
+![Easter Egg](images/easter-egg.JPG)
 ## **Flag:** HilltopCTF{KxhPmCtjwV4dgkNFYAvAAkkryvR1U2Hu3i8BnZSca8MT1291ZGhW}
