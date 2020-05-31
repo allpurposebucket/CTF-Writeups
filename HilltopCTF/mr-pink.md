@@ -1,6 +1,6 @@
 # **Mr. Pink**
 ## Points: 25
-### **Description:** It is hard to be a flamingo in a flock a pigeons… [QueenBee.jpg](https://capturetheflag.online/files/dc4905ecb840d0aca353bc42bae82780/QueenBee.jpg)
+### **Description:** It is hard to be a flamingo in a flock a pigeons… [QueenBee.jpg](images/QueenBee.jpg)
 
 Running stegcracker on the image gives us another image. This one is a QR code. When reading in the QR code, we get back [this website](https://medium.com/@MrPiink/-d4579853c5eb).
 On the image on the website, there are 4 different, encoded strings. The correct string is the long one on the bottom, which was a HUGE pain to type out manually.
