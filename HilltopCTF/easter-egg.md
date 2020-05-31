@@ -21,4 +21,4 @@ This gives us a directory system. After looking through all of the empty files a
 
 ![Easter Egg](images/easter-egg.JPG)
 
-## **Flag:** HilltopCTF{KxhPmCtjwV4dgkNFYAvAAkkryvR1U2Hu3i8BnZSca8MT1291ZGhW}
+## **Flag:** HilltopCTF{3asterflag20}
