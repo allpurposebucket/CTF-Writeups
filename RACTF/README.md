@@ -1,4 +1,4 @@
-# **RACTF 2020**
+# **RACTF**
 
 ## Challenges
 * [A Monster Issue](a-monster-issue.md)
