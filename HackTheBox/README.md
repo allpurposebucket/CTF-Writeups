@@ -1,3 +1,3 @@
 # HackTheBox Writeups
 
-* [Armageddon](/armageddon.md)
+* [Armageddon](Armageddon.md)
