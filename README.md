@@ -8,3 +8,4 @@ Here's my compilation of CTF writeups that I made for fun.
 * [HilltopCTF](/HilltopCTF)
 * [RACTF](/RACTF)
 * [NahamCon CTF](/NahamCon)
+* [HackTheBox](/HackTheBox)
