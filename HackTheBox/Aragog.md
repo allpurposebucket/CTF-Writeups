@@ -77,7 +77,7 @@ Testing this, we're right. I used [this cheat sheet](https://github.com/swisskyr
 </details>
 ```
 
-This succeeds by dumping the contents of /etc/passwd, where I found 2 users, **cliff** and **florian**. 
+This succeeds by dumping the contents of /etc/passwd, where I found 2 users, **cliff** and **florian**. I then dump the contents of florian's private ssh key, copy it to my system, and login. 
 
 
 ## Privelege Escalation
