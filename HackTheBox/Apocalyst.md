@@ -53,7 +53,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 ```
 The list of found directories was very long. There were only a few contents that returned a size bigger than 323, so I inspected each individually. Each one had the same picture on it. The source code for each was also all the same except for one. 
 
-Once I downloaded that image, I ran _stegseek_ on the image, which cracked it and produced another wordlist. I then ran this wordlist on the login page, since it's a wordpress site. I ran `wpscan --url http://apocalyst.htb/ --passwords worlist.txt -U falaraki`. Falaraki is the author of the three blogposts on the site, so I assumed that that would be a valid username. 
+Once I downloaded that image, I ran _stegseek_ on the image, which detected and cracked the steganography and produced another wordlist. I then ran this wordlist on the login page, since it's a wordpress site. I ran `wpscan --url http://apocalyst.htb/ --passwords worlist.txt -U falaraki`. Falaraki is the author of the three blogposts on the site, so I assumed that that would be a valid username. 
 
 This succeeded in finding me a valid login, which then gave me access to the admin panel. 
 
