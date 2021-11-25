@@ -71,6 +71,6 @@ Now that we had RCE, we just have to get a shell. Passing the reverse shell comm
 
 Next, I found I could read a file called _.secret_ in falaraki's home directory, even though I was www-data. The contents were a Base64 encoded password. With that, I logged in over SSH as falaraki for a more stable shell/TTY. 
 
-Finally, I didn't find anything obvious, so I ran LinPEAS on it, which found that /etc/passwd was writeable by my user. I ran `openssl passwd <my_password>` on my host to create a correctly encrypted password that fits the /etc/passwd format, then pasted it into the root user's line in /etc/passwd.
+Finally, I didn't find anything obvious, so I ran LinPEAS on it, which found that /etc/passwd was writeable by my user. I ran `openssl passwd <my_password>` on my host to create a correctly encrypted password that fits the /etc/passwd format, then pasted it into the root user's line in /etc/passwd. [Reference](https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd/)
 
 Then, I su'd to root, using the password I just created. 
